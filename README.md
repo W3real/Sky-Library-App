@@ -44,6 +44,4 @@ Kaldırmak için: Başlat menüsündeki **Sky Library Uninstall** kısayolu veya
 
 İlk açılışta giriş ekranı gelir. Yerel hesap oluşturabilir veya misafir olarak devam edebilirsin.
 
-## Kaynak kod
 
-https://github.com/W3real/Sky-Library
