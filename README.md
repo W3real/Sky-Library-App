@@ -1,3 +1,5 @@
+![Sky Library Mağaza](docs/store.png)
+
 # Sky Library
 
 Steam oyun kütüphanesi için hazırlanmış masaüstü uygulaması. Oyunlar, mağaza, film/dizi oynatıcı, profil ve dahili hız testi tek bir yerde.
