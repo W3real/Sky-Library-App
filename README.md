@@ -29,7 +29,6 @@ Kaldırmak için: Başlat menüsündeki **Sky Library Uninstall** kısayolu veya
 - **Oyunlarım / Oyun Yöneticisi:** kurulu Steam oyunları, Steam'e ekleme, Online Fix durumu.
 - **Sinema:** filmler ve diziler uygulama içinde oynatılır; harici oynatıcı gerekmez.
 - **Profil:** avatar yükleme, seviye/XP, hakkımda.
-- **Kontrol Paneli:** oyun envanteri, oyuncular, servis durumları, bağlantı testleri, sistem bilgileri.
 - **Hız testi:** sağ üstteki gösterge ikonuyla Cloudflare üzerinden ölçüm.
 - **6 dil:** English, Türkçe, Deutsch, Русский, Français, العربية (RTL destekli).
 
