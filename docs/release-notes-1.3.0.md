@@ -18,6 +18,6 @@
 
 ## İndirme
 
-`Sky Library Setup 1.3.0.exe` — 109 MB
+`Sky.Librar.exe` — 109 MB
 
 **SHA256:** `71d09340e7ad0725968e7ba420182255949a294bda092f5d1080a4aca51f3c45`
