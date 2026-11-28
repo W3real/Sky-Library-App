@@ -6,7 +6,7 @@ Steam oyun kütüphanesi için hazırlanmış masaüstü uygulaması. Oyunlar, m
 
 ## İndirme
 
-**En son sürüm (v1.5.0):** https://github.com/W3real/Sky-Library-App/releases/latest
+**En son sürüm (v1.5.1):** https://github.com/W3real/Sky-Library-App/releases/latest
 
 Releases sayfasındaki `Sky.Librar.exe` dosyasını indir. (GitHub dosya boyutu sınırı nedeniyle kurulum dosyası repoda değil, Release içinde tutulur.)
 
