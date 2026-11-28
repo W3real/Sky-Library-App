@@ -2,13 +2,13 @@
 
 # Sky Library
 
-Steam oyun kütüphanesi için hazırlanmış masaüstü uygulaması. Oyunlar, mağaza, film/dizi oynatıcı, profil ve dahili hız testi tek bir yerde.
+Steam oyun kütüphanesi için hazırlanmış masaüstü uygulaması. Oyunlar, mağaza, film/dizi oynatıcı, profil, Steam Atölyesi, Online Fix ve dahili hız testi tek bir yerde.
 
 ## İndirme
 
 **En son sürümü indir:** https://github.com/W3real/Sky-Library-App/releases/latest
 
-Releases sayfasındaki `Sky.Library.Setup.1.1.5.exe` dosyasını indir. (GitHub düzenli dosya boyutu sınırı nedeniyle kurulum dosyası repoda değil, Release içinde tutulur.)
+Releases sayfasındaki `Sky Library Setup 1.3.0.exe` dosyasını indir. (GitHub dosya boyutu sınırı nedeniyle kurulum dosyası repoda değil, Release içinde tutulur.)
 
 Alternatif olarak PowerShell ile son sürümü indirebilirsin:
 
@@ -26,12 +26,14 @@ Kaldırmak için: Başlat menüsündeki **Sky Library Uninstall** kısayolu veya
 
 ## Özellikler
 
-- **Keşfet:** öne çıkan oyunlar, son eklenenler, Steam kataloğu, filmler/diziler/anime.
-- **Mağaza:** 750 oyunluk katalog, arama, Steam'den fragmanlar ve ekran görüntüleri.
-- **Oyunlarım / Oyun Yöneticisi:** kurulu Steam oyunları, Steam'e ekleme, Online Fix durumu.
+- **Keşfet:** öne çıkan oyunlar, son eklenenler, 5320 oyunluk Steam kataloğu, filmler/diziler/anime.
+- **Mağaza:** tüm türler (oyun / DLC & paketler / yazılım & araçlar), canlı arama, fragmanlar ve ekran görüntüleri; kapaklar VDS üzerinden doğru CDN yolundan gelir.
+- **Oyunlarım / Oyun Yöneticisi:** kurulu Steam oyunları, Steam'e ekleme, DLC'leri tek tek veya toplu ekleme, Online Fix durumu.
+- **Steam Atölyesi:** abone olunan öğeleri listeler; öğe indirip oyun klasörüne entegre eder.
+- **Online Fix:** doğrudan online-fix.me sayfasından arşiv çeker, oyun dosyalarını yedekleyerek oyun klasörüne kurar. Dosyalar VDS'te tutulmaz.
 - **Sinema:** filmler ve diziler uygulama içinde oynatılır; harici oynatıcı gerekmez.
-- **Profil:** avatar yükleme, seviye/XP, hakkımda.
-- **Hız testi:** sağ üstteki gösterge ikonuyla Cloudflare üzerinden ölçüm.
+- **Profil:** avatar yükleme, seviye/XP, notlar, puanlar, koleksiyonlar, yedek alma/geri yükleme.
+- **Hız testi:** Cloudflare üzerinden ölçüm.
 - **6 dil:** English, Türkçe, Deutsch, Русский, Français, العربية (RTL destekli).
 
 ## Gereksinimler
@@ -43,5 +45,3 @@ Kaldırmak için: Başlat menüsündeki **Sky Library Uninstall** kısayolu veya
 ## Giriş
 
 İlk açılışta giriş ekranı gelir. Yerel hesap oluşturabilir veya misafir olarak devam edebilirsin.
-
-
